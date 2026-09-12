@@ -4,9 +4,9 @@
 
 **Paralelo:** " B "
 
-**Carrera:** Tecnologia De La Información
+**Carrera:** Tecnologia de la Información
 
-**Asignatura:** Fundamentos De Programación
+**Asignatura:** Fundamentos de Programación
 
 
 ## Descripción
