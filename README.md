@@ -1,6 +1,9 @@
 # Función para calcular el total de una compra
 
 **Estudiante:** Jeremy Smith Zhigue Betancourt
+**Paralelo:** " B "
+**Carrera:** TECNOLOGIAS DE LA INFORMACIÓN
+**Asignatura:** FUNDAMENTOS DE PROGRAMACION
 
 ## Descripción
 
